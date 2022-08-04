@@ -1,0 +1,18 @@
+header{
+    background:rgb(194, 196, 187);
+    text-align: center;
+    color:white;
+}
+header nav{
+   text-align: left;
+}
+.left{
+    display: none;
+}
+.right{
+    background:rgb(158, 160, 152);
+}
+.right h2{
+    text-transform: uppercase;
+    color: rgb(5, 5, 170);
+}
