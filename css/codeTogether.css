@@ -60,3 +60,7 @@ a:focus{
 a:active{
     border: 3px solid #000000;
 }
+ul{ 
+    list-style-type: square;
+    list-style-image: url(/images/laserEnemy.png);
+}
