@@ -49,13 +49,9 @@ a{
     text-decoration: none;
     margin: 0 auto;
 }
-a:hover{
+a:hover,a:focus{ 
     background: #B3B3B3;
     color: #0006cc;
-}
-a:focus{
-    background: #B3B3B3;
-    color: #0006CC;
 }
 a:active{
     border: 3px solid #000000;
@@ -63,4 +59,7 @@ a:active{
 ul{ 
     list-style-type: square;
     list-style-image: url(/images/laserEnemy.png);
+}
+a[href$=".com"]{
+    background: #1d3237;
 }
