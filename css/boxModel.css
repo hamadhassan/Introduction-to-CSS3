@@ -1,0 +1,22 @@
+.left{
+    text-align: center;
+    border: 1px solid black;
+    background: green;
+    color: white;
+    padding: 1%;
+    margin: 1%;
+    width: 43%;
+    display: inline-block;
+    box-sizing: border-box;    
+}
+.right{
+    text-align: center;
+    border: 1px solid black;
+    background: green;
+    color: white;
+    padding: 1%;
+    width: 43%;
+    display: inline-block;
+    box-sizing: border-box;    
+
+}
