@@ -38,3 +38,25 @@ footer{
 img{
     width: 125px;
 }
+a{
+    display:block;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #0006CC;
+    width: 200px;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+    margin: 0 auto;
+}
+a:hover{
+    background: #B3B3B3;
+    color: #0006cc;
+}
+a:focus{
+    background: #B3B3B3;
+    color: #0006CC;
+}
+a:active{
+    border: 3px solid #000000;
+}
