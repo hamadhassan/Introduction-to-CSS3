@@ -16,7 +16,8 @@ div:hover{
     color: white;
 }
 .animate{
-    background: wheat;
+    background: rgb(166, 122, 42);
+    opacity: 0.4;
 }
 .animate:hover{
     opacity: 1;
