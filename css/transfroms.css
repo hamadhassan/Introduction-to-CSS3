@@ -1,0 +1,13 @@
+.box-1{
+    transform: translate(200x, 1000px);
+    transform: rotate(20deg);
+   
+
+}
+.box{
+    border: 1px solid black;
+    color: rgb(255, 255, 255);
+    background-color: rgb(18, 27, 43);
+    width: 10%;
+    height: 20%;
+}
